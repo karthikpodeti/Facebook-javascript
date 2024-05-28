@@ -1,0 +1,25 @@
+body{
+    background-image:url(./istockphoto-1426988809-170667a.webp) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ h1{
+     color: white;
+
+ }
+
+ div{
+
+     height: 200px;
+     width: 300px;
+     border-radius: 10px;
+     box-shadow: 0 0 20px black;
+ }
+ #btn{
+     height: 30px;
+     width: 50px;
+     color: aliceblue;
+     background-color: rgba(0, 0, 255, 0.836);
+     outline: none;
+     border-radius: 5px;
+ }
